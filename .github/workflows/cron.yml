@@ -1,8 +1,9 @@
 name: Telegram Bot Auto Post
 
+# Trigger every 1 hour + manual run
 on:
   schedule:
-    - cron: "0 * * * *"   # প্রতি ১ ঘন্টা
+    - cron: "0 * * * *"  # প্রতি 1 ঘন্টা
   workflow_dispatch:
 
 jobs:
@@ -10,25 +11,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Step 2: Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
+      # Step 3: Install dependencies safely
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      # Step 4: Run bot.py safely
       - name: Run Telegram Bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
-          echo "Listing files..."
+          echo "Checking files in repo:"
           ls -la
           echo "Running bot.py..."
-          python bot.py
+          python -m bot
