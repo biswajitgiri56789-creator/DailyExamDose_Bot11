@@ -1,0 +1,56 @@
+{
+  "Class 11": {
+    "ইতিহাস": [
+      "ফরাসি বিপ্লবের কারণ লেখো।",
+      "১৮৫৭ সালের মহাবিদ্রোহের গুরুত্ব আলোচনা কর।"
+    ],
+    "Physics": [
+      "Define Newton’s First Law of Motion.",
+      "What is dimensional analysis?"
+    ]
+  },
+
+  "Class 12": {
+    "বাংলা": [
+      "রবীন্দ্রনাথ ঠাকুরের সাহিত্যকৃতিত্ব আলোচনা কর।",
+      "কবিতায় প্রকৃতির ভূমিকা লেখো।"
+    ],
+    "Chemistry": [
+      "What is electrolysis?",
+      "Explain corrosion with example."
+    ]
+  },
+
+  "College First Year": {
+    "ইতিহাস": [
+      "Discuss the causes of the French Revolution.",
+      "Explain the impact of the Renaissance."
+    ],
+    "English": [
+      "Explain the features of Romantic Poetry.",
+      "Discuss Shakespeare’s tragedies."
+    ]
+  },
+
+  "College Second Year": {
+    "রাষ্ট্রবিজ্ঞান": [
+      "রাষ্ট্রের সংজ্ঞা দাও।",
+      "গণতন্ত্রের বৈশিষ্ট্য লেখো।"
+    ],
+    "Economics": [
+      "Explain demand and supply.",
+      "What is elasticity of demand?"
+    ]
+  },
+
+  "College Third Year": {
+    "বাংলা": [
+      "আধুনিক বাংলা সাহিত্যের ধারা আলোচনা কর।",
+      "নজরুল ইসলামের কবিতার বৈশিষ্ট্য লেখো।"
+    ],
+    "Advanced Accounting": [
+      "What is amalgamation of companies?",
+      "Explain final accounts."
+    ]
+  }
+}

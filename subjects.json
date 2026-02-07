@@ -1,0 +1,156 @@
+{
+  "Class 11": {
+    "Languages": ["বাংলা", "English", "Hindi", "Sanskrit"],
+    "Science": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Environmental Studies"
+    ],
+    "Arts": [
+      "ইতিহাস",
+      "ভূগোল",
+      "রাষ্ট্রবিজ্ঞান",
+      "দর্শন",
+      "অর্থনীতি",
+      "শিক্ষাবিজ্ঞান",
+      "সমাজতত্ত্ব",
+      "মনোবিজ্ঞান"
+    ],
+    "Commerce": [
+      "Accountancy",
+      "Business Studies",
+      "Economics",
+      "Statistics"
+    ]
+  },
+
+  "Class 12": {
+    "Languages": ["বাংলা", "English", "Hindi", "Sanskrit"],
+    "Science": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Environmental Studies"
+    ],
+    "Arts": [
+      "ইতিহাস",
+      "ভূগোল",
+      "রাষ্ট্রবিজ্ঞান",
+      "দর্শন",
+      "অর্থনীতি",
+      "শিক্ষাবিজ্ঞান",
+      "সমাজতত্ত্ব",
+      "মনোবিজ্ঞান"
+    ],
+    "Commerce": [
+      "Accountancy",
+      "Business Studies",
+      "Economics",
+      "Commercial Law"
+    ]
+  },
+
+  "College First Year": {
+    "BA": [
+      "বাংলা",
+      "English",
+      "ইতিহাস",
+      "ভূগোল",
+      "রাষ্ট্রবিজ্ঞান",
+      "দর্শন",
+      "অর্থনীতি",
+      "সমাজতত্ত্ব",
+      "মনোবিজ্ঞান",
+      "শিক্ষাবিজ্ঞান"
+    ],
+    "BSc": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Botany",
+      "Zoology",
+      "Computer Science",
+      "Statistics",
+      "Environmental Science"
+    ],
+    "BCom": [
+      "Accountancy",
+      "Business Management",
+      "Business Economics",
+      "Commercial Law",
+      "Statistics"
+    ]
+  },
+
+  "College Second Year": {
+    "BA": [
+      "বাংলা",
+      "English",
+      "ইতিহাস",
+      "ভূগোল",
+      "রাষ্ট্রবিজ্ঞান",
+      "দর্শন",
+      "অর্থনীতি",
+      "সমাজতত্ত্ব",
+      "মনোবিজ্ঞান",
+      "শিক্ষাবিজ্ঞান"
+    ],
+    "BSc": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Botany",
+      "Zoology",
+      "Computer Science",
+      "Statistics",
+      "Environmental Science"
+    ],
+    "BCom": [
+      "Financial Accounting",
+      "Corporate Accounting",
+      "Income Tax",
+      "Auditing",
+      "Business Management"
+    ]
+  },
+
+  "College Third Year": {
+    "BA": [
+      "বাংলা",
+      "English",
+      "ইতিহাস",
+      "ভূগোল",
+      "রাষ্ট্রবিজ্ঞান",
+      "দর্শন",
+      "অর্থনীতি",
+      "সমাজতত্ত্ব",
+      "মনোবিজ্ঞান",
+      "শিক্ষাবিজ্ঞান"
+    ],
+    "BSc": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Botany",
+      "Zoology",
+      "Computer Science",
+      "Statistics",
+      "Environmental Science"
+    ],
+    "BCom": [
+      "Advanced Accounting",
+      "Cost & Management Accounting",
+      "Income Tax",
+      "Auditing",
+      "Business Law",
+      "Financial Management"
+    ]
+  }
+}
